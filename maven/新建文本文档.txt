@@ -1,0 +1,10 @@
+    <distributionManagement>
+        <repository>
+            <id>maven-central</id>
+            <url>http://192.168.10.50:8099/#browse/browse:maven-central</url>
+        </repository>
+    </distributionManagement>
+    <properties>
+        <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
